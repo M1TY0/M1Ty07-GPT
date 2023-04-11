@@ -3,12 +3,13 @@
     width: 50%;
     margin: auto;
     text-align: center;
+    font-size: 30px;
 }
 .addButton{
     margin-top: 25px;
     background-color: rgb(98, 97, 97);
     border: none;
-    font-size: 20px;
+    font-size: 30px;
     padding:10px ;
     padding-left: 30px;
     padding-right: 30px;
@@ -19,9 +20,11 @@
 .textbox{
     margin-top: 60px;
     
+    
 }
 .addButton:hover{
     background-color:rgb(77, 76, 76);
+    
 }
 .paragraph{
     font-family:Copperplate;
